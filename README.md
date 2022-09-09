@@ -1,2 +1,2 @@
 # Transcriptional-Stress
-This repositroy is a part of our transcriptional stress study.
+This repositroy is for transcriptional stress study including the custom code and processing raw data.
