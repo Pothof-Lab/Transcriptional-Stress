@@ -19,7 +19,5 @@ Read_distrubition.py, input: bam file, gtf/gff/bed. See more http://rseqc.source
 
 HTseq-count.py, input bam files, gtf/gff/bed. See more https://github.com/simon-anders/htseq.<br />
 Travel_Ratio.r visilzation R code for plotting the scatter plot using ggplot package. See more in https://ggplot2.tidyverse.org/.<br />
-The gene information from defined gene clusters can be found in the folder reference.<br />
 
 K-bining.py, input bam/bw file, gtf/gff/bed. See more http://rseqc.sourceforge.net/#genebody-coverage-py.<br />
-The gene information from defined gene clusters can be found in the folder reference.<br />
