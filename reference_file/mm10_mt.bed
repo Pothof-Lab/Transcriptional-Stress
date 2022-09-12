@@ -1,0 +1,13 @@
+chrM	69	852	uc009vev.1	0.000000	+	mm10_knownGene	exon	.	gene_id "uc009vev.1"; transcript_id "uc009vev.1"; 
+chrM	1093	2681	uc012hdk.1	0.000000	-	mm10_knownGene	exon	.	gene_id "uc012hdk.1"; transcript_id "uc012hdk.1"; 
+chrM	1148	3703	uc009vew.1	0.000000	+	mm10_knownGene	exon	.	gene_id "uc009vew.1"; transcript_id "uc009vew.1"; 
+chrM	3844	4925	uc009vex.2	0.000000	+	mm10_knownGene	exon	.	gene_id "uc009vex.2"; transcript_id "uc009vex.2"; 
+chrM	5326	6938	uc009vey.1	0.000000	+	mm10_knownGene	exon	.	gene_id "uc009vey.1"; transcript_id "uc009vey.1"; 
+chrM	7009	7699	uc009vez.1	0.000000	+	mm10_knownGene	exon	.	gene_id "uc009vez.1"; transcript_id "uc009vez.1"; 
+chrM	7765	8607	uc009vfa.1	0.000000	+	mm10_knownGene	exon	.	gene_id "uc009vfa.1"; transcript_id "uc009vfa.1"; 
+chrM	9875	11542	uc009vfb.1	0.000000	+	mm10_knownGene	exon	.	gene_id "uc009vfb.1"; transcript_id "uc009vfb.1"; 
+chrM	9876	9879	uc009vfb.1	0.000000	+	mm10_knownGene	start_codon	.	gene_id "uc009vfb.1"; transcript_id "uc009vfb.1"; 
+chrM	9876	10170	uc009vfb.1	0.000000	+	mm10_knownGene	CDS	0	gene_id "uc009vfb.1"; transcript_id "uc009vfb.1"; 
+chrM	10170	10173	uc009vfb.1	0.000000	+	mm10_knownGene	stop_codon	.	gene_id "uc009vfb.1"; transcript_id "uc009vfb.1"; 
+chrM	11719	14070	uc012hdm.1	0.000000	-	mm10_knownGene	exon	.	gene_id "uc012hdm.1"; transcript_id "uc012hdm.1"; 
+chrM	12405	15288	uc009vfc.1	0.000000	+	mm10_knownGene	exon	.	gene_id "uc009vfc.1"; transcript_id "uc009vfc.1"; 
