@@ -1,3 +1,4 @@
+##This code orignial from RSeQC
 #!/home/jiang/
 '''
 Check reads distribution over strandard features (exon, intron, UTR, intergenic)
