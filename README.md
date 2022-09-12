@@ -16,8 +16,9 @@ bamCoverage https://deeptools.readthedocs.io/en/develop/content/tools/bamCoverag
 Samtools http://www.htslib.org/doc/samtools-index.html<br />
 
 Read_distrubition.py, input: bam file, gtf/gff/bed. See more http://rseqc.sourceforge.net/#genebody-coverage-py.<br />
-
 HTseq-count.py, input bam files, gtf/gff/bed. See more https://github.com/simon-anders/htseq.<br />
 Travel_Ratio.r visilzation R code for plotting the scatter plot using ggplot package. See more in https://ggplot2.tidyverse.org/.<br />
-
 K-bining.py, input bam/bw file, gtf/gff/bed. See more http://rseqc.sourceforge.net/#genebody-coverage-py.<br />
+HOMER input bam/bw file,gtf/gff/bed. See more http://homer.ucsd.edu/homer/<br />
+
+
